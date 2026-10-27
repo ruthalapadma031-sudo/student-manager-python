@@ -1,4 +1,4 @@
-# student-manager-python
+
 # Student Manager (Python)
 
 A simple console app to manage a list of students.
